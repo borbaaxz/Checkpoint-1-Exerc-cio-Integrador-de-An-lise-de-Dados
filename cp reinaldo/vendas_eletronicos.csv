@@ -1,0 +1,616 @@
+﻿id_venda,data_venda,produto,categoria,preco_unitario,quantidade,desconto_pct,forma_pagamento,estado,avaliacao_cliente
+1094,2024-01-05,Fone de Ouvido,Acessórios,260.13,1,0.0,Pix,MG,3.0
+1132,2024-05-28,Smartphone,Telefonia,2257.42,-1,0.2,Pix,SP,5.0
+1185,2024-05-12,Smartphone,Telefonia,2013.07,1,0.05,Cartão de Débito,RS,
+1401,2024-12-05,Tablet,Telefonia,1369.59,1,0.0,Cartão de Crédito,RS,3.0
+1409,2024-08-01,Tablet,Telefonia,1326.98,1,0.0,Cartão de Crédito,pr,4.0
+1259,2024-01-20,Smartphone,Telefonia,2094.5,1,0.0,Cartão de Débito,SP,5.0
+1464,2024-01-19,Tablet,Telefonia,1105.77,1,0.0,Pix,RJ,4.0
+1373,2024-03-24,Notebook,Informática,3066.68,1,0.05,Cartão de Crédito,RS,5.0
+1002,2024-06-18,Fone de Ouvido,Acessórios,293.87,1,0.0,Cartão de Crédito,MG,4.0
+1468,2024-06-30,Mouse,Acessórios,92.18,1,0.0,Cartão de Débito,DF,5.0
+1146,2024-03-29,SMARTPHONE,Telefonia,1980.26,2,0.0,Pix,ce,3.0
+1223,2024-01-12,TABLET,Telefonia,1485.34,1,0.0,Cartão de Crédito,SP,
+1280,2024-10-10,Teclado,Acessórios,158.96,1,0.15,Cartão de Débito,DF,4.0
+1032,2024-06-09,Monitor,Informática,951.11,3,0.1,Cartão de Crédito,MG,3.0
+1390,2024-09-27,Notebook,Informática,3813.36,1,0.0,Cartão de Débito,mg,4.0
+1429,2024-03-28,Monitor,Informática,912.27,1,0.0,Cartão de Crédito,RS,
+1040,2024-04-26,Fone de Ouvido,Acessórios,6169.5,1,0.05,Cartão de Débito,SC,3.0
+1363,2024-09-14,Fone de Ouvido,Acessórios,268.1,1,0.0,Pix,BA,5.0
+1227,2024-04-26,MONITOR,Informática,921.34,1,0.0,Cartão de Crédito,RJ,3.0
+1178,2024-10-19,Fone de Ouvido,Acessórios,242.28,2,0.05,Pix,RS,5.0
+1212,2024-11-18,Fone de Ouvido,Acessórios,6183.75,3,0.0,Cartão de Débito,DF,4.0
+1037,2024-07-08, mouse ,Acessórios,102.26,1,0.0,Cartão de Débito,BA,3.0
+1310,2024-05-20,Fone de Ouvido,Acessórios,-207.81,1,0.0,Pix,BA,3.0
+1589,2024-06-15, notebook ,Informática,3946.86,1,0.0,Cartão de Débito,MG,5.0
+1450,2024-09-06,Mouse,Acessórios,96.47,1,0.0,Pix,DF,5.0
+1521,2024-12-02,Mouse,Acessórios,81.12,1,0.05,Cartão de Crédito,MG,2.0
+1343,2024-07-19,Fone de Ouvido,Acessórios,265.39,1,0.15,Pix,SP,5.0
+1385,2024-04-25,Mouse,Acessórios,74.2,1,0.0,Cartão de Débito,RS,5.0
+1189,2024-08-03,Tablet,Telefonia,1324.23,1,0.0,Cartão de Crédito,RJ,5.0
+1398,2024-02-17,SMARTPHONE,Telefonia,1738.43,1,0.0,Cartão de Débito,RS,4.0
+1091,2024-01-13, smartphone ,Telefonia,2270.21,1,0.0,Pix,PE,4.0
+1054,2024-04-18,Monitor,Informática,1030.13,2,0.05,Cartão de Débito,PR,5.0
+1123,2024-06-02,MOUSE,Acessórios,91.62,1,0.0,Pix,DF,4.0
+1060,2024-11-07,Fone de Ouvido,Acessórios,266.64,1,0.0,Cartão de Crédito,SP,4.0
+1415,2024-11-17,Notebook,Informática,,1,0.0,,,
+1097,2024-07-16,Smartphone,Telefonia,2412.71,1,0.15,Cartão de Crédito,BA,4.0
+1089,2024-10-01,Fone de Ouvido,Acessórios,263.54,2,0.0,Cartão de Débito,rs,4.0
+1055,2024-08-08,MOUSE,Acessórios,77.08,3,0.0,Boleto,RJ,5.0
+1459,2024-08-04,Mouse,Acessórios,105.5,1,0.0,Cartão de Crédito,PE,4.0
+1116,2024-03-07,Tablet,Telefonia,1521.24,1,0.0,Pix,MG,5.0
+1090,2024-12-21,Notebook,Informática,4275.73,2,0.0,Cartão de Crédito,MG,4.0
+1593,2024-11-29,Mouse,Acessórios,112.17,1,0.2,Cartão de Crédito,PR,3.0
+1072,2024-03-15,Fone de Ouvido,Acessórios,233.1,1,0.05,Pix,MG,4.0
+1251,2024-12-13,Tablet,Telefonia,1447.47,1,0.05,Cartão de Crédito,RJ,3.0
+1331,2024-01-21,Smartphone,Telefonia,2237.74,1,0.0,Cartão de Débito,SC,2.0
+1128,2024-11-07,Mouse,Acessórios,95.84,1,0.2,Cartão de Crédito,SP,3.0
+1479,2024-02-05,Mouse,Acessórios,85.0,1,0.0,Cartão de Crédito,PR,4.0
+1065,2024-07-30,TABLET,Telefonia,1317.48,1,0.0,Pix,MG,4.0
+1039,2024-11-06,Teclado,Acessórios,139.39,1,0.0,Pix,PE,4.0
+1062,2024-01-01,Fone de Ouvido,Acessórios,264.21,1,0.0,Pix,PR,4.0
+1050,2024-04-05,Monitor,Informática,959.59,2,0.2,Pix,PE,4.0
+1174,2024-01-03,Tablet,Telefonia,1755.45,1,0.0,Cartão de Crédito,CE,5.0
+1521,2024-12-02,Mouse,Acessórios,81.12,1,0.05,Cartão de Crédito,MG,2.0
+1533,2024-04-03,Notebook,Informática,3740.4,2,0.05,Pix,SC,4.0
+1181,2024-08-12,Fone de Ouvido,Acessórios,203.69,1,0.0,Pix,MG,4.0
+1160,2024-06-23,Fone de Ouvido,Acessórios,252.67,2,0.0,Pix,RS,5.0
+1495,2024-11-08,Monitor,Informática,869.53,1,0.0,Pix,RS,2.0
+1017,2024-04-05,Smartphone,Telefonia,2122.92,1,0.15,Pix,PE,4.0
+1210,2024-08-13,Tablet,Telefonia,1259.66,1,0.0,Cartão de Crédito,SP,5.0
+1148,2024-05-03,Smartphone,Telefonia,2275.47,1,0.0,Cartão de Crédito,BA,2.0
+1365,2024-09-28,Monitor,Informática,615.01,1,0.05,Cartão de Débito,SP,4.0
+1309,2024-12-27,FONE DE OUVIDO,Acessórios,197.5,1,0.0,Cartão de Débito,SP,3.0
+1438,2024-06-15,Smartphone,Telefonia,2495.38,1,0.0,Cartão de Crédito,SC,4.0
+1444,2024-12-29,Smartphone,Telefonia,2274.09,2,0.1,Cartão de Crédito,MG,5.0
+1145,2024-08-28,Mouse,Acessórios,84.27,1,0.0,Cartão de Débito,DF,4.0
+1109,2024-06-28,Tablet,Telefonia,1010.12,1,0.0,Cartão de Crédito,BA,3.0
+1551,2024-09-02,FONE DE OUVIDO,Acessórios,303.45,1,0.05,Cartão de Crédito,BA,3.0
+1030,2024-11-12,Tablet,Telefonia,1446.48,2,0.0,Cartão de Débito,MG,4.0
+1400,2024-06-15,Notebook,Informática,2993.58,1,0.0,Cartão de Crédito,CE,5.0
+1211,2024-06-08,Notebook,Informática,4400.96,1,0.0,Cartão de Crédito,DF,3.0
+1098,2024-08-18,Tablet,Telefonia,1253.03,2,0.0,Boleto,RS,4.0
+1077,2024-07-13,MONITOR,Informática,744.35,1,0.0,Cartão de Débito,RJ,5.0
+1231,2024-09-19,Notebook,Informática,3616.9,1,0.0,Cartão de Débito,SP,4.0
+1584,2024-02-02,Teclado,Acessórios,189.42,1,0.15,Pix,DF,4.0
+1268,2024-11-21,Smartphone,Telefonia,2254.3,1,0.0,Cartão de Crédito,CE,
+1308,2024-08-01,Fone de Ouvido,Acessórios,243.77,3,0.0,Cartão de Crédito,CE,4.0
+1504,2024-08-24,Monitor,Informática,846.3,1,0.0,Pix,CE,4.0
+1313,2024-07-10,Fone de Ouvido,Acessórios,209.71,1,0.0,Cartão de Débito,MG,5.0
+1520,2024-09-05,Fone de Ouvido,Acessórios,217.19,1,0.0,Cartão de Débito,SC,4.0
+1361,2024-05-28,Mouse,Acessórios,96.8,1,0.05,Cartão de Débito,PE,5.0
+1422,2024-02-16,Smartphone,Telefonia,2067.21,1,0.1,Cartão de Crédito,SP,5.0
+1260,2024-09-10,Monitor,Informática,1093.55,1,0.0,Pix,PE,5.0
+1279,2024-06-02,Mouse,Acessórios,112.22,1,0.0,Pix,RS,5.0
+1357,2024-10-07,Fone de Ouvido,Acessórios,245.97,1,0.0,Cartão de Crédito,CE,3.0
+1425,2024-09-20,Smartphone,Telefonia,1901.31,1,0.0,Pix,MG,5.0
+1408,2024-11-29,Monitor,Informática,767.5,1,0.15,Cartão de Crédito,PR,4.0
+1006,2024-07-08,Monitor,Informática,923.61,2,0.0,Pix,PE,3.0
+1481,2024-05-07,Teclado,Acessórios,159.98,2,0.0,Cartão de Débito,PE,4.0
+1284,2024-12-30,Teclado,Acessórios,153.67,1,0.05,Pix,MG,4.0
+1456,2024-05-08,Notebook,Informática,3889.17,1,0.15,Pix,PR,4.0
+1192,2024-11-06,Mouse,Acessórios,83.26,2,0.0,Pix,SC,4.0
+1166,2024-04-26,Monitor,Informática,939.47,1,0.0,Pix,RJ,4.0
+1549,2024-10-09,Smartphone,Telefonia,2021.27,1,0.1,Pix,SP,4.0
+1598,2024-07-15,Tablet,Telefonia,1408.79,3,0.0,Cartão de Crédito,CE,4.0
+1369,2024-07-23,TABLET,Telefonia,1529.11,1,0.15,Pix,SC,4.0
+1297,2024-11-23,Smartphone,Telefonia,2376.21,1,0.0,Cartão de Débito,MG,5.0
+1139,2024-12-24,Monitor,Informática,905.08,3,0.05,Pix,RS,4.0
+1047,2024-03-05,Notebook,Informática,3525.58,2,0.1,Pix,SP,
+1522,2024-11-22,Monitor,Informática,944.22,1,0.0,Cartão de Crédito,RJ,4.0
+1317,2024-11-27,TABLET,Telefonia,1296.72,1,0.0,Cartão de Crédito,DF,5.0
+1525,2024-05-04,Smartphone,Telefonia,1799.43,2,0.15,Cartão de Crédito,CE,5.0
+1106,2024-11-08,Tablet,Telefonia,1233.75,3,0.1,Pix,SP,3.0
+1580,2024-08-31,Teclado,Acessórios,163.38,1,0.0,Cartão de Crédito,CE,3.0
+1475,2024-08-18,Mouse,Acessórios,92.09,2,0.0,Boleto,PR,4.0
+1138,2024-11-13,Smartphone,Telefonia,2388.34,2,0.2,Cartão de Débito,PR,4.0
+1112,2024-10-31,Fone de Ouvido,Acessórios,209.12,2,0.0,Cartão de Débito,PE,4.0
+1070,2024-10-14,Notebook,Informática,3189.36,1,0.0,Cartão de Crédito,rj,3.0
+1021,2024-08-27,Mouse,Acessórios,77.38,2,0.0,Cartão de Crédito,SP,5.0
+1165,2024-07-24,Smartphone,Telefonia,,1,0.05,,,
+1255,2024-10-28,Smartphone,Telefonia,1881.84,1,0.0,Cartão de Débito,SC,5.0
+1124,2024-03-27, smartphone ,Telefonia,1769.79,1,0.05,Cartão de Crédito,pr,5.0
+1300,2024-04-29,Teclado,Acessórios,159.79,2,0.0,Cartão de Crédito,BA,5.0
+1063,2024-08-11,Tablet,Telefonia,1409.13,2,0.0,Cartão de Crédito,PE,3.0
+1141,2024-12-09,FONE DE OUVIDO,Acessórios,245.96,3,0.0,Cartão de Crédito,RS,4.0
+1267,2024-07-10,Fone de Ouvido,Acessórios,196.95,1,0.0,Pix,PR,4.0
+1004,2024-04-01,Monitor,Informática,910.27,1,0.0,Cartão de Débito,SC,3.0
+1515,2024-10-04,MOUSE,Acessórios,107.18,1,0.0,Boleto,PE,1.0
+1215,2024-05-09,Teclado,Acessórios,192.17,1,0.0,Cartão de Crédito,PR,4.0
+1567,2024-07-18,Monitor,Informática,1043.64,1,0.05,Cartão de Débito,DF,3.0
+1271,2024-12-03,Monitor,Informática,797.01,1,0.1,Cartão de Débito,DF,2.0
+1175,2024-01-25,Teclado,Acessórios,175.57,1,0.0,Cartão de Crédito,MG,3.0
+1364,2024-01-24,Teclado,Acessórios,175.29,1,0.0,Boleto,CE,4.0
+1519,2024-08-04,TABLET,Telefonia,1540.36,1,0.05,Cartão de Crédito,RJ,2.0
+1074,2024-03-21,Monitor,Informática,680.84,2,0.0,Pix,PR,4.0
+1038,2024-04-17,Teclado,Acessórios,187.66,1,0.1,Cartão de Débito,PR,3.0
+1269,2024-02-05,Monitor,Informática,859.13,1,0.0,Cartão de Crédito,PR,5.0
+1068,2024-01-06,Notebook,Informática,3451.89,1,0.0,Cartão de Débito,sp,2.0
+1088,2024-07-21,Monitor,Informática,899.05,1,0.1,Cartão de Débito,PE,5.0
+1295,2024-11-08,Notebook,Informática,3711.6,1,0.0,Cartão de Débito,PR,2.0
+1594,2024-09-22,Mouse,Acessórios,96.57,2,0.0,Cartão de Crédito,pe,4.0
+1548,2024-04-17,Mouse,Acessórios,,2,0.0,,,
+1555,2024-06-10,Smartphone,Telefonia,2334.52,1,0.1,Cartão de Débito,DF,3.0
+1506,2024-06-11,Smartphone,Telefonia,2053.34,1,0.15,Pix,CE,5.0
+1170,2024-08-20,Monitor,Informática,1027.81,2,0.0,Pix,SP,4.0
+1452,2024-08-02,Monitor,Informática,822.17,1,0.1,Cartão de Débito,MG,5.0
+1292,2024-10-05,Notebook,Informática,3262.58,1,0.0,Pix,BA,5.0
+1489,2024-11-10,Tablet,Telefonia,1367.02,2,0.1,Cartão de Crédito,PR,4.0
+1287,2024-06-10,Mouse,Acessórios,83.22,1,0.0,Boleto,RS,5.0
+1461,2024-12-30,Fone de Ouvido,Acessórios,259.48,1,0.1,Cartão de Débito,MG,5.0
+1334,2024-11-05, notebook ,Informática,,1,0.0,,,
+1026,2024-04-13,Tablet,Telefonia,1352.04,2,0.1,Cartão de Débito,RS,5.0
+1114,2024-12-31,Tablet,Telefonia,1342.43,2,0.15,Cartão de Débito,RJ,4.0
+1514,2024-04-12,TABLET,Telefonia,1465.96,1,0.0,Cartão de Débito,DF,5.0
+1252,2024-10-04,Fone de Ouvido,Acessórios,274.38,1,0.0,Cartão de Débito,PR,5.0
+1493,2024-12-24,Mouse,Acessórios,91.96,1,0.0,Cartão de Crédito,RJ,4.0
+1482,2024-04-15,Monitor,Informática,808.56,1,0.0,Cartão de Débito,PR,5.0
+1155,2024-11-21,SMARTPHONE,Telefonia,60691.0,1,0.0,Pix,MG,5.0
+1105,2024-02-20,Mouse,Acessórios,79.89,1,0.0,Pix,PE,4.0
+1301,2024-11-03,Monitor,Informática,1017.29,1,0.0,Pix,CE,1.0
+1150,2024-12-19,Smartphone,Telefonia,1281.07,1,0.1,Cartão de Débito,PE,4.0
+1159,2024-08-13,Mouse,Acessórios,110.64,2,0.0,Cartão de Débito,RS,1.0
+1322,2024-12-29,Smartphone,Telefonia,2005.0,1,0.1,Cartão de Crédito,RJ,4.0
+1235,2024-08-29,Smartphone,Telefonia,2173.12,1,0.0,Cartão de Crédito,PR,4.0
+1389,2024-08-29,Fone de Ouvido,Acessórios,300.66,1,0.05,Cartão de Crédito,RS,4.0
+1195,2024-03-13,Teclado,Acessórios,4742.5,1,0.2,Cartão de Débito,SP,2.0
+1448,2024-05-11,Fone de Ouvido,Acessórios,227.48,1,0.0,Cartão de Crédito,RS,5.0
+1258,2024-11-05,Tablet,Telefonia,1690.13,2,0.0,Cartão de Crédito,PE,4.0
+1194,2024-02-22,TABLET,Telefonia,1433.19,1,0.0,Cartão de Débito,PR,4.0
+1352,2024-12-14,Smartphone,Telefonia,1945.43,1,0.0,Pix,DF,3.0
+1447,2024-02-18,Notebook,Informática,3307.93,1,0.1,Cartão de Crédito,RJ,4.0
+1036,2024-05-22,Monitor,Informática,961.66,1,0.05,Cartão de Crédito,RJ,5.0
+1018,2024-04-10,Notebook,Informática,3493.5,1,0.05,Boleto,SP,5.0
+1283,2024-02-24,Monitor,Informática,669.96,2,0.0,Cartão de Crédito,CE,4.0
+1299,2024-10-10,Tablet,Telefonia,1241.65,3,0.1,Boleto,RS,4.0
+1411,2024-11-14,Teclado,Acessórios,176.68,1,0.2,Pix,DF,4.0
+1441,2024-09-01,Notebook,Informática,3832.25,1,0.0,Cartão de Crédito,SC,3.0
+1034,2024-06-24,Mouse,Acessórios,101.42,1,0.05,Cartão de Crédito,SC,5.0
+1095,2024-10-22,Smartphone,Telefonia,2091.26,2,0.0,Cartão de Débito,PE,4.0
+1074,2024-03-21,Monitor,Informática,680.84,2,0.0,Pix,PR,4.0
+1474,2024-08-26,Fone de Ouvido,Acessórios,257.43,1,0.0,Cartão de Débito,SC,3.0
+1015,2024-07-08,Tablet,Telefonia,1550.63,1,0.0,Cartão de Crédito,SP,4.0
+1442,2024-04-12,Smartphone,Telefonia,1931.42,2,0.05,Pix,PR,5.0
+1564,2024-12-05,Teclado,Acessórios,207.58,1,0.0,Cartão de Débito,BA,4.0
+1276,2024-07-16,Notebook,Informática,3925.07,2,0.0,Cartão de Débito,RJ,4.0
+1233,2024-06-03,Monitor,Informática,819.72,1,0.05,Pix,BA,4.0
+1273,2024-05-21,Mouse,Acessórios,99.55,1,0.1,Cartão de Débito,CE,5.0
+1392,2024-12-30,Smartphone,Telefonia,2216.68,1,0.0,Cartão de Crédito,PR,3.0
+1023,2024-09-23,Notebook,Informática,,1,0.0,,,
+1336,2024-07-01,Notebook,Informática,3507.89,1,0.05,Cartão de Débito,DF,4.0
+1547,2024-12-06,Teclado,Acessórios,140.56,1,0.0,Cartão de Débito,rs,3.0
+1378,2024-09-16,Fone de Ouvido,Acessórios,310.73,1,0.0,Pix,mg,5.0
+1250,2024-12-25,Monitor,Informática,881.95,2,0.0,Cartão de Crédito,SC,5.0
+1228,2024-04-01,Smartphone,Telefonia,1782.55,1,0.05,Cartão de Débito,RS,3.0
+1368,2024-02-14,MOUSE,Acessórios,93.84,1,0.1,Cartão de Crédito,BA,4.0
+1057,2024-05-15,Smartphone,Telefonia,2558.48,1,0.0,Pix,SP,3.0
+1416,2024-04-09,Tablet,Telefonia,1569.29,1,0.05,Pix,RJ,4.0
+1546,2024-11-11,MOUSE,Acessórios,86.97,1,0.0,Cartão de Débito,PE,4.0
+1071,2024-11-01,Mouse,Acessórios,82.99,1,0.0,Cartão de Débito,SP,5.0
+1143,2024-11-05,Monitor,Informática,986.6,1,0.0,Pix,PR,5.0
+1591,2024-02-04,Mouse,Acessórios,96.09,1,0.05,Cartão de Crédito,BA,3.0
+1147,2024-01-29,Fone de Ouvido,Acessórios,,1,0.1,Cartão de Crédito,CE,
+1337,2024-07-21,Tablet,Telefonia,1509.82,1,0.05,Cartão de Crédito,CE,4.0
+1487,2024-08-09,Tablet,Telefonia,1412.48,1,0.0,Cartão de Crédito,MG,3.0
+1325,2024-05-05,Notebook,Informática,3973.22,2,0.0,Cartão de Crédito,SP,4.0
+1439,2024-03-12,Mouse,Acessórios,109.81,1,0.0,Cartão de Débito,CE,5.0
+1081,2024-03-18, mouse ,Acessórios,78.56,2,0.0,Pix,PE,5.0
+1126,2024-11-05,Smartphone,Telefonia,2158.26,1,0.0,Cartão de Crédito,SP,2.0
+1218,2024-02-24,Monitor,Informática,1041.61,1,0.0,Cartão de Crédito,SP,4.0
+1080,2024-12-20,TECLADO,Acessórios,171.81,1,0.1,Cartão de Crédito,RS,2.0
+1167,2024-11-15,Tablet,Telefonia,1134.61,3,0.0,Cartão de Débito,RJ,4.0
+1254,2024-04-13,Mouse,Acessórios,92.23,2,0.05,Cartão de Débito,MG,5.0
+1330,2024-12-08,Teclado,Acessórios,154.21,1,0.0,Cartão de Crédito,MG,5.0
+1107,2024-11-04,Mouse,Acessórios,88.64,1,0.0,Cartão de Crédito,CE,4.0
+1370,2024-07-17,Monitor,Informática,958.01,1,0.0,Pix,DF,3.0
+1256,2024-02-23,Smartphone,Telefonia,2515.91,1,0.0,Cartão de Crédito,SP,5.0
+1428,2024-05-18,Monitor,Informática,775.41,2,0.0,Cartão de Crédito,DF,4.0
+1466,2024-06-18,Fone de Ouvido,Acessórios,234.63,1,0.0,Pix,RS,5.0
+1527,2024-04-02,Teclado,Acessórios,215.25,2,0.0,Cartão de Débito,SC,3.0
+1535,2024-02-23,TECLADO,Acessórios,215.76,2,0.15,Cartão de Crédito,SP,4.0
+1349,2024-03-14,Teclado,Acessórios,186.04,1,0.05,Pix,DF,5.0
+1265,2024-04-16,FONE DE OUVIDO,Acessórios,318.13,1,0.0,Cartão de Débito,SP,4.0
+1051,2024-12-20,Fone de Ouvido,Acessórios,228.7,1,0.05,Cartão de Crédito,CE,5.0
+1460,2024-06-24,Mouse,Acessórios,93.62,1,0.0,Pix,RS,2.0
+1122,2024-02-09,Tablet,Telefonia,1419.19,1,0.0,Cartão de Débito,RJ,3.0
+1517,2024-05-24,Teclado,Acessórios,146.58,2,0.0,Cartão de Débito,BA,3.0
+1193,2024-10-29,Smartphone,Telefonia,2705.3,1,0.0,Pix,PE,5.0
+1237,2024-08-19,Teclado,Acessórios,192.51,1,0.0,Cartão de Crédito,mg,5.0
+1221,2024-05-30,MONITOR,Informática,984.25,2,0.05,Cartão de Crédito,RJ,2.0
+1556,2024-08-04,Teclado,Acessórios,158.45,1,0.05,Pix,SP,5.0
+1342,2024-01-25,Tablet,Telefonia,1560.13,1,0.0,Pix,PR,5.0
+1327,2024-12-28,TABLET,Telefonia,1418.68,1,0.0,Cartão de Crédito,DF,2.0
+1558,2024-05-21,Tablet,Telefonia,1360.0,1,0.0,Cartão de Crédito,SC,4.0
+1559,2024-04-07,Mouse,Acessórios,90.5,1,0.1,Cartão de Crédito,PR,5.0
+1277,2024-11-25,Fone de Ouvido,Acessórios,181.48,1,0.05,Pix,RJ,3.0
+1561,2024-09-07,Teclado,Acessórios,199.93,1,0.0,Cartão de Débito,RS,5.0
+1031,2024-02-15,Notebook,Informática,3847.42,1,0.2,Pix,pr,4.0
+1380,2024-03-28,Teclado,Acessórios,159.23,1,0.05,Pix,RJ,3.0
+1318,2024-09-22, notebook ,Informática,3570.83,1,0.0,Cartão de Crédito,RJ,4.0
+1167,2024-11-15,Tablet,Telefonia,1134.61,3,0.0,Cartão de Débito,RJ,4.0
+1200,2024-06-02,NOTEBOOK,Informática,,1,0.0,Cartão de Crédito,CE,
+1362,2024-05-17,Notebook,Informática,3361.98,1,0.0,Cartão de Crédito,pr,3.0
+1491,2024-09-29,Fone de Ouvido,Acessórios,318.02,1,0.0,Cartão de Débito,PE,4.0
+1431,2024-03-23,Fone de Ouvido,Acessórios,293.31,1,0.05,Pix,MG,5.0
+1531,2024-09-07,Monitor,Informática,,1,0.0,Cartão de Crédito,CE,
+1503,2024-07-26,Notebook,Informática,4118.52,1,0.2,Pix,RJ,4.0
+1217,2024-10-12,Monitor,Informática,731.89,1,0.0,Cartão de Crédito,RS,5.0
+1316,2024-05-06,Mouse,Acessórios,91.56,1,0.0,Cartão de Crédito,RS,4.0
+1083,2024-09-29,Notebook,Informática,3630.73,1,0.0,Cartão de Crédito,SC,4.0
+1421,2024-02-12,Notebook,Informática,3426.77,1,0.2,Pix,CE,3.0
+1044,2024-09-06,Smartphone,Telefonia,2384.56,1,0.0,Pix,DF,4.0
+1099,2024-09-10,Notebook,Informática,3331.84,1,0.0,Cartão de Débito,RS,5.0
+1257,2024-08-30,Notebook,Informática,3243.89,3,0.0,Cartão de Débito,SC,4.0
+1424,2024-11-14,Smartphone,Telefonia,1809.77,2,0.0,Cartão de Crédito,PE,4.0
+1101,2024-11-27,Mouse,Acessórios,89.58,2,0.0,Cartão de Crédito,RJ,3.0
+1042,2024-05-23,Fone de Ouvido,Acessórios,261.32,1,0.0,Pix,MG,3.0
+1570,2024-08-19,Tablet,Telefonia,1216.52,1,0.0,Cartão de Débito,PE,5.0
+1196,2024-05-11,Fone de Ouvido,Acessórios,260.22,1,0.1,Cartão de Débito,BA,4.0
+1270,2024-04-15,Monitor,Informática,796.96,2,0.2,Pix,CE,4.0
+1013,2024-01-13,Mouse,Acessórios,89.34,1,0.0,Cartão de Crédito,SC,
+1220,2024-08-18,Monitor,Informática,907.88,2,0.0,Cartão de Débito,SP,4.0
+1339,2024-05-26,Fone de Ouvido,Acessórios,239.89,1,0.1,Cartão de Crédito,BA,5.0
+1351,2024-04-28,Monitor,Informática,846.9,1,0.05,Cartão de Crédito,RJ,3.0
+1119,2024-10-29,Tablet,Telefonia,1248.71,1,0.0,Cartão de Crédito,PR,5.0
+1406,2024-01-22,Tablet,Telefonia,1431.44,1,0.0,Cartão de Débito,MG,4.0
+1586,2024-09-15,Tablet,Telefonia,1370.61,1,0.0,Pix,SC,2.0
+1383,2024-09-04,Monitor,Informática,782.91,1,0.0,Pix,SC,3.0
+1069,2024-06-13,Fone de Ouvido,Acessórios,287.13,3,0.0,Pix,DF,5.0
+1414,2024-06-05,Smartphone,Telefonia,2450.39,3,0.0,Cartão de Crédito,BA,2.0
+1172,2024-01-09,Smartphone,Telefonia,2226.87,3,0.0,Cartão de Débito,BA,5.0
+1149,2024-06-24,Fone de Ouvido,Acessórios,260.03,1,0.0,Boleto,PR,5.0
+1236,2024-11-03,Fone de Ouvido,Acessórios,249.54,1,0.0,Cartão de Crédito,SC,4.0
+1587,2024-04-04,Monitor,Informática,784.45,2,0.15,Cartão de Débito,DF,5.0
+1542,2024-01-22,Smartphone,Telefonia,2613.9,1,0.0,Pix,RS,3.0
+1180,2024-08-30,FONE DE OUVIDO,Acessórios,297.06,1,0.05,Cartão de Crédito,MG,4.0
+1100,2024-12-30,Smartphone,Telefonia,2633.51,1,0.0,Cartão de Débito,PE,4.0
+1457,2024-07-25, fone de ouvido ,Acessórios,217.04,1,0.1,Cartão de Débito,RS,2.0
+1127,2024-01-11,Monitor,Informática,987.11,2,0.0,Pix,RS,5.0
+1432,2024-11-14,Notebook,Informática,3044.24,1,0.0,Pix,DF,4.0
+1523,2024-08-26,Monitor,Informática,918.22,1,0.05,Cartão de Débito,RS,4.0
+1103,2024-05-20,Mouse,Acessórios,110.27,1,0.15,Cartão de Débito,PE,3.0
+1289,2024-09-21,Teclado,Acessórios,174.49,1,0.2,Pix,rs,
+1246,2024-12-12,Notebook,Informática,3488.59,2,0.0,Cartão de Crédito,PE,3.0
+1449,2024-03-02,MOUSE,Acessórios,88.99,1,0.0,Cartão de Crédito,SP,3.0
+1120,2024-09-12,Smartphone,Telefonia,2078.95,1,0.1,Cartão de Débito,CE,4.0
+1076,2024-07-01,Smartphone,Telefonia,2496.39,1,0.0,Pix,BA,3.0
+1053,2024-05-23, mouse ,Acessórios,90.23,3,0.05,Cartão de Crédito,pr,4.0
+1229,2024-05-09,Monitor,Informática,903.9,2,0.0,Cartão de Crédito,SC,1.0
+1379,2024-09-03,Fone de Ouvido,Acessórios,209.1,2,0.2,Cartão de Crédito,PE,4.0
+1110,2024-12-02,Notebook,Informática,3953.79,1,0.0,Cartão de Débito,RS,4.0
+1007,2024-09-08,Fone de Ouvido,Acessórios,276.45,1,0.1,Cartão de Crédito,CE,4.0
+1025,2024-01-09,Teclado,Acessórios,188.56,2,0.15,Cartão de Crédito,CE,4.0
+1288,2024-10-07, smartphone ,Telefonia,1886.1,1,0.0,Pix,RS,4.0
+1538,2024-03-03,Mouse,Acessórios,74.87,1,0.0,Cartão de Crédito,SP,3.0
+1410,2024-01-14,Teclado,Acessórios,191.69,1,0.05,Cartão de Débito,SC,4.0
+1340,2024-12-14,Fone de Ouvido,Acessórios,320.0,2,0.0,Pix,BA,4.0
+1207,2024-04-27,Fone de Ouvido,Acessórios,259.59,1,0.2,Pix,PR,4.0
+1462,2024-10-30,Fone de Ouvido,Acessórios,255.17,2,0.1,Cartão de Crédito,PR,4.0
+1020,2024-07-21,Teclado,Acessórios,179.25,3,0.0,Cartão de Crédito,PE,4.0
+1537,2024-10-09,Fone de Ouvido,Acessórios,237.66,1,0.0,Pix,PE,2.0
+1009,2024-07-19,Fone de Ouvido,Acessórios,268.35,2,0.05,Cartão de Débito,PE,5.0
+1549,2024-10-09,Smartphone,Telefonia,2021.27,1,0.1,Pix,SP,4.0
+1430,2024-05-12,Notebook,Informática,3292.89,1,0.0,Cartão de Crédito,SP,3.0
+1494,2024-04-25,Teclado,Acessórios,223.71,2,0.0,Cartão de Débito,CE,4.0
+1345,2024-03-01,Teclado,Acessórios,161.15,2,0.15,Cartão de Débito,MG,2.0
+1367,2024-11-08,Fone de Ouvido,Acessórios,282.94,1,0.05,Cartão de Débito,PR,3.0
+1188,2024-09-01,SMARTPHONE,Telefonia,2115.09,1,0.0,Cartão de Crédito,PR,3.0
+1162,2024-06-10,Teclado,Acessórios,172.58,1,0.0,Cartão de Crédito,MG,5.0
+1412,2024-06-17,Smartphone,Telefonia,2306.9,1,0.0,Cartão de Crédito,PR,5.0
+1346,2024-01-13, smartphone ,Telefonia,2200.32,2,0.05,Cartão de Crédito,PE,2.0
+1216,2024-12-07,Fone de Ouvido,Acessórios,268.94,1,0.0,Cartão de Crédito,BA,4.0
+1478,2024-12-15,Fone de Ouvido,Acessórios,198.93,2,0.0,Cartão de Crédito,PE,3.0
+1458,2024-03-10,Mouse,Acessórios,79.75,1,0.0,Pix,PR,3.0
+1530,2024-09-07,Teclado,Acessórios,174.85,1,0.0,Cartão de Crédito,df,4.0
+1096,2024-05-24,Teclado,Acessórios,185.4,1,0.0,Cartão de Crédito,SP,4.0
+1244,2024-08-07,Fone de Ouvido,Acessórios,287.66,1,0.0,Cartão de Crédito,SP,2.0
+1488,2024-11-13,Fone de Ouvido,Acessórios,275.41,1,0.0,Pix,CE,4.0
+1014,2024-04-17, teclado ,Acessórios,186.33,1,0.0,Pix,RS,4.0
+1242,2024-08-19,Tablet,Telefonia,1583.64,1,0.0,Cartão de Débito,DF,4.0
+1321,2024-10-10, mouse ,Acessórios,99.91,1,0.05,Pix,PR,4.0
+1396,2024-02-16,TECLADO,Acessórios,167.67,1,0.0,Cartão de Débito,BA,4.0
+1423,2024-11-13,Fone de Ouvido,Acessórios,257.9,1,0.15,Cartão de Débito,DF,4.0
+1483,2024-04-15,Notebook,Informática,3489.64,1,0.0,Pix,SC,
+1359,2024-04-09,Monitor,Informática,795.24,2,0.0,Cartão de Crédito,rj,4.0
+1163,2024-01-27,Notebook,Informática,4150.67,1,0.0,Cartão de Crédito,PE,4.0
+1454,2024-04-03, tablet ,Telefonia,1257.6,1,0.0,Cartão de Débito,DF,3.0
+1391,2024-06-12,Tablet,Telefonia,1126.99,1,0.1,Pix,RJ,2.0
+1286,2024-10-28,Tablet,Telefonia,1568.59,3,0.1,Boleto,SC,3.0
+1249,2024-05-01,Fone de Ouvido,Acessórios,211.56,1,0.0,Pix,SC,1.0
+1264,2024-05-03,Notebook,Informática,3473.42,1,0.05,Cartão de Débito,SC,5.0
+1377,2024-03-30,Monitor,Informática,895.17,3,0.2,Cartão de Crédito,CE,5.0
+1293,2024-07-30,Monitor,Informática,855.64,1,0.2,Cartão de Crédito,RJ,4.0
+1566,2024-07-06,Notebook,Informática,3363.95,3,0.0,Cartão de Crédito,CE,5.0
+1294,2024-05-07,Monitor,Informática,800.3,1,0.2,Pix,MG,2.0
+1232,2024-08-18,Mouse,Acessórios,,1,0.0,Cartão de Crédito,RJ,
+1554,2024-12-05,Tablet,Telefonia,1596.04,1,0.1,Cartão de Débito,SC,4.0
+1419,2024-08-24,Notebook,Informática,2942.88,1,0.2,Pix,DF,4.0
+1304,2024-07-19,Monitor,Informática,907.57,1,0.1,Pix,CE,4.0
+1404,2024-06-16,Smartphone,Telefonia,,1,0.1,,,
+1563,2024-02-23,Notebook,Informática,3595.17,1,0.0,Cartão de Débito,PE,3.0
+1171,2024-06-22,Smartphone,Telefonia,2025.57,1,0.0,Pix,DF,4.0
+1157,2024-07-11,Monitor,Informática,874.47,1,0.0,Cartão de Débito,ba,5.0
+1384,2024-04-03, tablet ,Telefonia,1987.31,1,0.0,Cartão de Crédito,MG,2.0
+1307,2024-01-28,Notebook,Informática,3453.83,1,0.0,Cartão de Crédito,RS,4.0
+1543,2024-04-25,MONITOR,Informática,807.17,1,0.0,Cartão de Crédito,ce,4.0
+1499,2024-05-28,Notebook,Informática,3590.27,1,0.0,Cartão de Crédito,MG,3.0
+1437,2024-10-15,Fone de Ouvido,Acessórios,230.83,1,0.0,Cartão de Débito,SP,3.0
+1376,2024-02-19,Fone de Ouvido,Acessórios,278.61,1,0.0,Cartão de Crédito,BA,5.0
+1344,2024-12-23,Smartphone,Telefonia,2141.25,1,0.0,Cartão de Débito,MG,4.0
+1509,2024-05-22,Fone de Ouvido,Acessórios,,1,0.0,,,
+1156,2024-10-04,Smartphone,Telefonia,2513.21,1,0.0,Cartão de Crédito,RS,5.0
+1179,2024-04-05,Teclado,Acessórios,143.96,3,0.0,Cartão de Débito,CE,5.0
+1152,2024-07-06,NOTEBOOK,Informática,3009.06,2,0.0,Pix,SC,4.0
+1151,2024-04-01,Fone de Ouvido,Acessórios,223.89,1,0.0,Cartão de Crédito,SP,5.0
+1078,2024-12-11,Tablet,Telefonia,1263.0,1,0.0,Cartão de Crédito,RJ,4.0
+1576,2024-04-15,Teclado,Acessórios,155.09,1,0.1,Cartão de Débito,PR,4.0
+1140,2024-10-19,Teclado,Acessórios,179.81,1,0.1,Cartão de Crédito,CE,5.0
+1496,2024-03-12,Mouse,Acessórios,73.23,1,0.05,Cartão de Débito,SP,
+1453,2024-11-27,Smartphone,Telefonia,2339.61,2,0.0,Cartão de Débito,DF,4.0
+1092,2024-03-09,Notebook,Informática,3469.9,1,0.05,Cartão de Crédito,RJ,3.0
+1541,2024-11-21,Fone de Ouvido,Acessórios,238.76,2,0.0,Cartão de Débito,RS,3.0
+1581,2024-01-31,Monitor,Informática,871.78,2,0.0,Cartão de Débito,RS,5.0
+1319,2024-06-03,Notebook,Informática,3685.62,1,0.1,Pix,PR,5.0
+1131,2024-04-10,MONITOR,Informática,1091.25,3,0.0,Cartão de Crédito,SP,3.0
+1197,2024-11-26,Smartphone,Telefonia,2578.89,2,0.05,Cartão de Crédito,SP,4.0
+1550,2024-09-22,Notebook,Informática,3808.96,1,0.0,Cartão de Crédito,DF,5.0
+1445,2024-09-27,Mouse,Acessórios,108.99,1,0.0,Cartão de Crédito,MG,5.0
+1104,2024-05-12,Notebook,Informática,3864.5,1,0.0,Cartão de Crédito,PE,5.0
+1588,2024-05-13,Tablet,Telefonia,1101.63,2,0.0,Pix,DF,5.0
+1471,2024-10-18,Fone de Ouvido,Acessórios,211.96,1,0.0,Cartão de Débito,BA,3.0
+1596,2024-06-27,Mouse,Acessórios,100.56,1,0.0,Cartão de Débito,PE,4.0
+1199,2024-04-19,Notebook,Informática,3989.06,1,0.0,Pix,DF,4.0
+1356,2024-01-23,Mouse,Acessórios,63.66,1,0.05,Pix,PR,1.0
+1560,2024-12-20,Monitor,Informática,754.4,1,0.1,Cartão de Débito,sp,1.0
+1585,2024-11-27,Teclado,Acessórios,125.3,1,0.0,Cartão de Crédito,SC,5.0
+1516,2024-06-14,Notebook,Informática,3704.14,1,0.1,Cartão de Crédito,MG,5.0
+1387,2024-08-08,Smartphone,Telefonia,2392.92,3,0.0,Cartão de Débito,RS,4.0
+1133,2024-09-24,Teclado,Acessórios,222.03,1,0.2,Cartão de Crédito,DF,5.0
+1118,2024-03-25,Monitor,Informática,717.13,1,0.0,Cartão de Crédito,MG,5.0
+1302,2024-09-20,Fone de Ouvido,Acessórios,218.39,1,0.0,Pix,RJ,5.0
+1134,2024-06-24, smartphone ,Telefonia,2416.08,1,0.05,Boleto,PE,3.0
+1573,2024-10-31,Teclado,Acessórios,197.47,1,0.05,Cartão de Débito,SC,4.0
+1565,2024-12-29,Tablet,Telefonia,1456.79,1,0.05,Pix,RS,4.0
+1529,2024-12-02,Tablet,Telefonia,1604.79,2,0.05,Cartão de Crédito,CE,4.0
+1505,2024-10-08,Tablet,Telefonia,1292.33,1,0.0,Pix,RS,4.0
+1005,2024-01-02,Mouse,Acessórios,97.18,1,0.0,Cartão de Crédito,BA,3.0
+1278,2024-05-17,Tablet,Telefonia,1504.02,1,0.0,Cartão de Crédito,MG,5.0
+1418,2024-10-27,Fone de Ouvido,Acessórios,261.72,1,0.05,Pix,RS,4.0
+1282,2024-09-23,Teclado,Acessórios,162.65,1,0.0,Cartão de Crédito,PE,4.0
+1315,2024-06-22,Mouse,Acessórios,73.65,3,0.05,Pix,SC,5.0
+1371,2024-06-29,Notebook,Informática,3521.68,2,0.0,Cartão de Débito,PE,3.0
+1115,2024-01-08,Mouse,Acessórios,85.99,3,0.1,Cartão de Débito,SP,5.0
+1387,2024-08-08,Smartphone,Telefonia,2392.92,3,0.0,Cartão de Débito,RS,4.0
+1075,2024-03-09,Smartphone,Telefonia,2717.78,2,0.0,Cartão de Débito,RJ,3.0
+1590,2024-09-27,NOTEBOOK,Informática,3709.62,1,0.1,Cartão de Débito,SC,4.0
+1557,2024-05-02,Monitor,Informática,1011.96,2,0.0,Pix,PR,1.0
+1409,2024-08-01,Tablet,Telefonia,1326.98,1,0.0,Cartão de Crédito,pr,4.0
+1333,2024-12-06,Teclado,Acessórios,185.17,1,0.0,Cartão de Crédito,PE,3.0
+1208,2024-05-31,Notebook,Informática,3743.3,1,0.0,Cartão de Crédito,SP,5.0
+1206,2024-09-19,Mouse,Acessórios,83.51,1,0.0,Cartão de Débito,BA,5.0
+1073,2024-11-30,Monitor,Informática,1174.24,3,0.0,Pix,MG,4.0
+1008,2024-06-11,Fone de Ouvido,Acessórios,229.69,1,0.1,Pix,MG,5.0
+1222,2024-11-06,Notebook,Informática,2728.79,1,0.0,Pix,BA,4.0
+1045,2024-04-05, monitor ,Informática,964.79,1,0.0,Cartão de Débito,SP,4.0
+1262,2024-04-22,Fone de Ouvido,Acessórios,266.6,1,0.0,Cartão de Crédito,sc,3.0
+1027,2024-12-31,Teclado,Acessórios,203.01,2,0.2,Cartão de Débito,RJ,3.0
+1003,2024-01-21,Monitor,Informática,1066.18,1,0.0,Cartão de Crédito,CE,4.0
+1323,2024-12-25,Tablet,Telefonia,1371.77,2,0.15,Cartão de Crédito,DF,4.0
+1016,2024-05-16,TABLET,Telefonia,1613.99,2,0.0,Pix,PR,4.0
+1239,2024-11-09,Smartphone,Telefonia,2470.9,1,0.0,Cartão de Débito,PE,5.0
+1041,2024-10-16,Monitor,Informática,847.49,1,0.0,Pix,BA,3.0
+1176,2024-10-26,MOUSE,Acessórios,108.05,2,0.0,Cartão de Crédito,RJ,2.0
+1272,2024-09-04,Fone de Ouvido,Acessórios,177.27,1,0.1,Cartão de Crédito,RS,1.0
+1194,2024-02-22,TABLET,Telefonia,1433.19,1,0.0,Cartão de Débito,PR,4.0
+1511,2024-07-10,Smartphone,Telefonia,2562.22,1,0.1,Cartão de Débito,MG,4.0
+1079,2024-04-30,Smartphone,Telefonia,2052.42,1,0.0,Cartão de Crédito,BA,5.0
+1402,2024-09-27,Notebook,Informática,3944.45,1,0.15,Pix,RS,4.0
+1164,2024-12-14,Notebook,Informática,3643.94,2,0.1,Pix,PR,5.0
+1407,2024-03-23,Mouse,Acessórios,92.48,1,0.15,Cartão de Crédito,MG,5.0
+1059,2024-05-05,Mouse,Acessórios,104.69,1,0.0,Pix,DF,4.0
+1427,2024-07-06,Tablet,Telefonia,1528.77,1,0.0,Cartão de Débito,ba,3.0
+1393,2024-02-23,Fone de Ouvido,Acessórios,289.31,2,0.0,Cartão de Crédito,BA,4.0
+1485,2024-07-14,Notebook,Informática,3352.14,2,0.0,Cartão de Débito,CE,4.0
+1528,2024-04-21,Smartphone,Telefonia,2185.06,1,0.0,Cartão de Crédito,PE,4.0
+1183,2024-01-28,Monitor,Informática,868.52,1,0.0,Pix,RJ,4.0
+1320,2024-12-22,Teclado,Acessórios,192.07,1,0.0,Pix,PR,2.0
+1177,2024-05-10,Tablet,Telefonia,1365.72,1,0.2,Cartão de Débito,DF,5.0
+1545,2024-06-11,Mouse,Acessórios,112.48,3,0.2,Cartão de Débito,CE,5.0
+1093,2024-10-22,Tablet,Telefonia,1228.0,2,0.0,Cartão de Crédito,BA,2.0
+1168,2024-09-23,Mouse,Acessórios,99.74,2,0.2,Pix,BA,5.0
+1201,2024-02-12,Smartphone,Telefonia,,1,0.0,,,
+1082,2024-10-20,Smartphone,Telefonia,2352.21,1,0.0,Cartão de Crédito,MG,3.0
+1162,2024-06-10,Teclado,Acessórios,172.58,1,0.0,Cartão de Crédito,MG,5.0
+1158,2024-01-29,Tablet,Telefonia,1301.46,1,0.0,Cartão de Crédito,SP,4.0
+1085,2024-06-28,Notebook,Informática,3870.29,1,0.0,Cartão de Débito,DF,4.0
+1191,2024-01-08,Fone de Ouvido,Acessórios,282.58,1,0.15,Cartão de Crédito,RJ,5.0
+1153,2024-06-08,Fone de Ouvido,Acessórios,227.72,2,0.0,Pix,PR,5.0
+1154,2024-08-20,Mouse,Acessórios,81.24,1,0.0,Cartão de Crédito,SP,4.0
+1130,2024-05-10,Smartphone,Telefonia,2190.76,1,0.0,Pix,RJ,3.0
+1405,2024-11-15,Fone de Ouvido,Acessórios,239.29,1,0.1,Boleto,mg,3.0
+1397,2024-02-28,TECLADO,Acessórios,195.86,1,0.0,Cartão de Débito,SC,4.0
+1372,2024-07-06,Mouse,Acessórios,94.73,2,0.15,Pix,CE,4.0
+1480,2024-05-09,Monitor,Informática,855.4,2,0.0,Pix,SC,2.0
+1446,2024-01-22,Teclado,Acessórios,,2,0.0,,,
+1010,2024-02-04, notebook ,Informática,3425.35,1,0.05,Cartão de Crédito,SP,4.0
+1086,2024-01-04,Tablet,Telefonia,1165.04,1,0.0,Pix,PE,3.0
+1035,2024-11-11,Mouse,Acessórios,90.55,1,0.0,Cartão de Crédito,DF,4.0
+1583,2024-12-11,Fone de Ouvido,Acessórios,259.51,1,0.05,Cartão de Crédito,SC,4.0
+1213,2024-10-28,Mouse,Acessórios,117.86,1,0.0,Cartão de Débito,MG,4.0
+1381,2024-06-04,Teclado,Acessórios,197.95,1,0.1,Pix,DF,5.0
+1028,2024-05-14,Tablet,Telefonia,1199.86,1,0.0,Pix,MG,4.0
+1597,2024-03-08,Mouse,Acessórios,67.26,1,0.05,Cartão de Crédito,CE,4.0
+1311,2024-03-30,NOTEBOOK,Informática,3465.1,1,0.0,Pix,SC,3.0
+1303,2024-01-16,Teclado,Acessórios,156.94,1,0.2,Cartão de Crédito,SP,4.0
+1117,2024-10-14,Mouse,Acessórios,77.81,1,0.1,Pix,PE,5.0
+1107,2024-11-04,Mouse,Acessórios,88.64,1,0.0,Cartão de Crédito,CE,4.0
+1198,2024-11-11,Teclado,Acessórios,151.04,1,0.0,Cartão de Débito,CE,4.0
+1058,2024-03-31,Notebook,Informática,3221.02,1,0.05,Pix,DF,4.0
+1281,2024-04-06,Smartphone,Telefonia,2321.31,1,0.0,Cartão de Débito,DF,5.0
+1348,2024-02-22,Fone de Ouvido,Acessórios,284.51,1,0.0,Cartão de Débito,MG,2.0
+1582,2024-08-09,Mouse,Acessórios,102.99,1,0.0,Pix,rs,4.0
+1353,2024-11-20,Teclado,Acessórios,200.22,1,0.0,Cartão de Crédito,CE,5.0
+1029,2024-01-22,Notebook,Informática,3775.75,1,0.0,Boleto,BA,4.0
+1335,2024-02-15,Tablet,Telefonia,1445.6,1,0.0,Pix,DF,4.0
+1435,2024-08-01,Notebook,Informática,3142.41,1,0.0,Cartão de Crédito,CE,4.0
+1011,2024-09-11,Mouse,Acessórios,85.57,1,0.05,Cartão de Crédito,SC,4.0
+1142,2024-12-09,SMARTPHONE,Telefonia,2028.78,1,0.2,Cartão de Crédito,RJ,5.0
+1394,2024-12-07,Smartphone,Telefonia,2046.32,1,0.0,Boleto,RS,5.0
+1540,2024-10-01,Teclado,Acessórios,117.21,1,0.0,Cartão de Crédito,DF,4.0
+1553,2024-05-03,Smartphone,Telefonia,1641.68,2,0.0,Cartão de Crédito,RS,5.0
+1285,2024-01-08,Tablet,Telefonia,1419.78,3,0.0,Pix,PR,3.0
+1512,2024-02-25,Smartphone,Telefonia,2323.21,1,0.0,Cartão de Crédito,BA,4.0
+1067,2024-09-23, notebook ,Informática,2773.27,2,0.0,Pix,PR,5.0
+1518,2024-10-09,Teclado,Acessórios,182.87,1,0.0,Cartão de Crédito,SP,4.0
+1338,2024-02-17,Notebook,Informática,4001.46,2,0.0,Cartão de Crédito,CE,5.0
+1324,2024-07-14,Teclado,Acessórios,202.3,1,0.0,Pix,PR,4.0
+1451,2024-12-20,Fone de Ouvido,Acessórios,270.05,1,0.05,Cartão de Crédito,PR,
+1375,2024-08-10,Teclado,Acessórios,164.46,2,0.0,Cartão de Crédito,MG,4.0
+1329,2024-03-17, teclado ,Acessórios,,1,0.1,,,
+1298,2024-08-02,Mouse,Acessórios,87.97,1,0.05,Pix,BA,5.0
+1314,2024-04-18,Mouse,Acessórios,82.35,1,0.0,Pix,SP,5.0
+1248,2024-10-04,Smartphone,Telefonia,2042.98,1,0.0,Cartão de Crédito,RS,4.0
+1476,2024-03-11,Notebook,Informática,3806.56,1,0.0,Cartão de Crédito,DF,5.0
+1263,2024-11-08,Mouse,Acessórios,84.67,1,0.0,Cartão de Débito,BA,5.0
+1433,2024-02-05,Notebook,Informática,3153.33,2,0.0,Cartão de Crédito,DF,5.0
+1386,2024-09-22,Smartphone,Telefonia,1880.25,1,0.15,Cartão de Crédito,CE,3.0
+1473,2024-08-26,Teclado,Acessórios,,1,0.0,Cartão de Crédito,PE,
+1305,2024-12-08,Notebook,Informática,3987.99,1,0.2,Cartão de Crédito,PE,1.0
+1341,2024-07-22,Teclado,Acessórios,184.15,1,0.0,Cartão de Crédito,RJ,4.0
+1019,2024-08-11,Tablet,Telefonia,1395.4,1,0.0,Cartão de Débito,SP,2.0
+1484,2024-02-07,Notebook,Informática,3506.95,1,0.05,Pix,MG,4.0
+1121,2024-03-21,Monitor,Informática,-1017.56,1,0.2,Cartão de Débito,DF,5.0
+1498,2024-07-10,Fone de Ouvido,Acessórios,256.06,2,0.0,Cartão de Débito,MG,4.0
+1502,2024-12-25,Notebook,Informática,3867.94,3,0.0,Cartão de Débito,PE,4.0
+1136,2024-12-29,TABLET,Telefonia,1256.23,2,0.0,Cartão de Crédito,SC,4.0
+1490,2024-04-23,Notebook,Informática,4541.34,1,0.05,Cartão de Débito,SP,4.0
+1202,2024-04-26,Smartphone,Telefonia,2247.37,2,0.0,Pix,CE,5.0
+1084,2024-04-20,Teclado,Acessórios,216.44,2,0.0,Cartão de Débito,BA,2.0
+1595,2024-11-29,Notebook,Informática,3720.22,2,0.2,Cartão de Crédito,CE,5.0
+1113,2024-04-22,Notebook,Informática,2697.27,2,0.0,Cartão de Débito,RJ,4.0
+1184,2024-01-10,Fone de Ouvido,Acessórios,283.23,1,0.2,Cartão de Débito,MG,4.0
+1043,2024-04-03,Notebook,Informática,4193.57,1,0.0,Cartão de Crédito,RS,2.0
+1508,2024-12-05,Mouse,Acessórios,88.44,1,0.15,Pix,SP,4.0
+1544,2024-03-17,Monitor,Informática,950.53,1,0.0,Cartão de Débito,DF,5.0
+1569,2024-01-11,Mouse,Acessórios,83.06,1,0.0,Cartão de Débito,BA,3.0
+1061,2024-10-29, teclado ,Acessórios,195.84,2,0.2,Cartão de Crédito,PR,4.0
+1087,2024-08-10,Mouse,Acessórios,96.08,1,0.0,Cartão de Crédito,BA,4.0
+1539,2024-04-27,Fone de Ouvido,Acessórios,251.81,1,0.0,Cartão de Crédito,PR,3.0
+1226,2024-04-19,SMARTPHONE,Telefonia,2140.56,2,0.15,Pix,BA,4.0
+1470,2024-06-04,Fone de Ouvido,Acessórios,244.63,1,0.05,Boleto,PE,5.0
+1291,2024-06-04, tablet ,Telefonia,1591.5,2,0.0,Cartão de Crédito,PE,3.0
+1574,2024-11-08,Tablet,Telefonia,1537.45,2,0.0,Pix,DF,4.0
+1111,2024-02-18,Monitor,Informática,700.75,1,0.0,Cartão de Débito,SC,5.0
+1033,2024-06-22,Notebook,Informática,3469.41,1,0.1,Cartão de Crédito,PE,5.0
+1173,2024-06-26,Mouse,Acessórios,87.04,1,0.05,Cartão de Crédito,RS,5.0
+1000,2024-08-02,Mouse,Acessórios,,2,0.0,Cartão de Crédito,PE,
+1426,2024-06-30,Notebook,Informática,3564.61,1,0.0,Pix,PR,4.0
+1135,2024-04-12,Mouse,Acessórios,91.45,2,0.05,Pix,SP,2.0
+1465,2024-05-18,Tablet,Telefonia,1143.37,1,0.0,Cartão de Crédito,RJ,5.0
+1578,2024-11-03, notebook ,Informática,3467.47,1,0.0,Cartão de Crédito,SP,4.0
+1358,2024-05-25,Tablet,Telefonia,1399.41,1,0.1,Cartão de Crédito,MG,
+1024,2024-02-29,Mouse,Acessórios,110.22,1,0.0,Cartão de Crédito,SP,5.0
+1599,2024-06-23,Smartphone,Telefonia,2329.58,2,0.05,Cartão de Débito,RJ,4.0
+1225,2024-07-24,Mouse,Acessórios,101.7,1,0.0,Cartão de Débito,RS,4.0
+1326,2024-04-22,Fone de Ouvido,Acessórios,286.66,1,0.0,Cartão de Débito,RJ,3.0
+1513,2024-11-02,Notebook,Informática,3712.67,2,0.05,Cartão de Crédito,SC,4.0
+1190,2024-12-05,Fone de Ouvido,Acessórios,245.99,1,0.0,Cartão de Crédito,SC,4.0
+1524,2024-09-27,Monitor,Informática,910.7,1,0.0,Cartão de Crédito,CE,4.0
+1243,2024-01-28,Monitor,Informática,962.14,1,0.05,Cartão de Crédito,MG,4.0
+1266,2024-10-28,Teclado,Acessórios,183.04,1,0.15,Pix,DF,3.0
+1532,2024-08-24,Smartphone,Telefonia,1858.61,1,0.0,Cartão de Débito,PE,4.0
+1048,2024-03-30, tablet ,Telefonia,1447.21,1,0.0,Cartão de Crédito,RJ,5.0
+1204,2024-06-06,MONITOR,Informática,956.42,1,0.0,Cartão de Crédito,RJ,2.0
+1102,2024-11-25,Tablet,Telefonia,1469.46,1,0.0,Cartão de Débito,PE,3.0
+1066,2024-09-07,Smartphone,Telefonia,,2,0.0,,,
+1022,2024-12-17,Tablet,Telefonia,1686.71,1,0.0,Cartão de Crédito,SC,3.0
+1592,2024-06-27,Teclado,Acessórios,116.72,1,0.1,Cartão de Crédito,PR,3.0
+1463,2024-12-21,Teclado,Acessórios,178.53,1,0.15,Pix,sc,5.0
+1510,2024-12-28,MONITOR,Informática,983.78,1,0.0,Pix,SC,
+1332,2024-09-29,Notebook,Informática,3049.45,1,0.0,Pix,MG,4.0
+1350,2024-11-30,Teclado,Acessórios,184.53,1,0.05,Cartão de Débito,BA,5.0
+1253,2024-10-21,Tablet,Telefonia,1497.09,1,0.0,Pix,CE,4.0
+1467,2024-02-24,Teclado,Acessórios,227.95,1,0.0,Cartão de Crédito,BA,4.0
+1469,2024-08-01,Notebook,Informática,3774.0,1,0.0,Pix,RJ,3.0
+1161,2024-01-21,Tablet,Telefonia,1595.87,2,0.2,Cartão de Débito,PR,2.0
+1374,2024-02-15,Teclado,Acessórios,143.52,2,0.0,Cartão de Débito,PR,5.0
+1064,2024-01-28,Monitor,Informática,793.38,1,0.0,Boleto,PR,3.0
+1420,2024-09-27,Teclado,Acessórios,179.49,1,0.05,Cartão de Débito,RS,5.0
+1203,2024-10-16,Tablet,Telefonia,1705.89,1,0.15,Cartão de Crédito,RS,4.0
+1526,2024-06-19,Teclado,Acessórios,184.37,1,0.0,Pix,SC,5.0
+1572,2024-09-25,Teclado,Acessórios,136.25,2,0.0,Pix,CE,4.0
+1562,2024-08-06,Notebook,Informática,4059.52,1,0.05,Cartão de Crédito,CE,5.0
+1224,2024-01-07,Smartphone,Telefonia,2589.7,1,0.05,Pix,RS,3.0
+1209,2024-06-15,Fone de Ouvido,Acessórios,284.82,1,0.05,Pix,DF,5.0
+1568,2024-02-08,Tablet,Telefonia,1829.19,1,0.0,Cartão de Débito,MG,2.0
+1497,2024-09-29,Smartphone,Telefonia,2120.4,1,0.05,Cartão de Crédito,SP,3.0
+1306,2024-01-21,Monitor,Informática,778.99,1,0.0,Cartão de Débito,mg,3.0
+1169,2024-03-20,Notebook,Informática,4035.36,1,0.2,Cartão de Débito,BA,3.0
+1366,2024-05-13,Smartphone,Telefonia,2261.16,1,0.0,Cartão de Crédito,SC,4.0
+1354,2024-04-09,Monitor,Informática,870.52,1,0.1,Pix,rj,4.0
+1579,2024-08-05, fone de ouvido ,Acessórios,214.14,1,0.0,Cartão de Débito,RS,4.0
+1413,2024-09-22,Monitor,Informática,895.43,1,0.0,Cartão de Débito,RJ,4.0
+1230,2024-02-25,Tablet,Telefonia,1176.35,1,0.0,Cartão de Débito,CE,5.0
+1046,2024-06-26,Fone de Ouvido,Acessórios,243.93,1,0.15,Cartão de Débito,MG,4.0
+1500,2024-02-07,Tablet,Telefonia,1603.02,1,0.0,Cartão de Débito,SC,3.0
+1240,2024-12-08,Tablet,Telefonia,991.47,1,0.0,Pix,PE,5.0
+1399,2024-08-04,Tablet,Telefonia,1422.36,2,0.0,Cartão de Crédito,MG,4.0
+1247,2024-08-13, fone de ouvido ,Acessórios,267.23,1,0.05,Cartão de Crédito,DF,5.0
+1455,2024-12-11,Mouse,Acessórios,,1,0.0,,,
+1205,2024-12-16,FONE DE OUVIDO,Acessórios,256.21,1,0.0,Pix,DF,3.0
+1371,2024-06-29,Notebook,Informática,3521.68,2,0.0,Cartão de Débito,PE,3.0
+1108,2024-12-12,Notebook,Informática,3857.94,2,0.0,Cartão de Débito,sp,4.0
+1219,2024-04-24,Monitor,Informática,975.0,1,0.0,Cartão de Crédito,PE,3.0
+1290,2024-07-31,Teclado,Acessórios,-158.26,1,0.1,Cartão de Débito,PE,4.0
+1001,2024-10-20,Tablet,Telefonia,1486.59,1,0.2,Cartão de Crédito,RJ,5.0
+1328,2024-06-18,Teclado,Acessórios,174.41,1,0.15,Cartão de Débito,PR,3.0
+1507,2024-05-19,Smartphone,Telefonia,1969.88,1,0.1,Cartão de Crédito,SC,4.0
+1219,2024-04-24,Monitor,Informática,975.0,1,0.0,Cartão de Crédito,PE,3.0
+1552,2024-07-19, smartphone ,Telefonia,2124.45,2,0.0,Cartão de Crédito,DF,4.0
+1403,2024-03-18,Monitor,Informática,1001.26,1,0.0,Cartão de Débito,DF,5.0
+1536,2024-10-30,Tablet,Telefonia,1412.21,1,0.05,Cartão de Débito,DF,4.0
+1261,2024-11-14,Smartphone,Telefonia,2221.41,-1,0.0,Cartão de Crédito,MG,4.0
+1388,2024-07-17,Tablet,Telefonia,1075.18,1,0.1,Pix,SC,3.0
+1144,2024-09-18, teclado ,Acessórios,166.22,1,0.0,Cartão de Crédito,PR,5.0
+1440,2024-12-19,Teclado,Acessórios,188.23,1,0.05,Cartão de Débito,mg,3.0
+1186,2024-07-22,Monitor,Informática,809.45,1,0.0,Pix,PR,5.0
+1052,2024-08-20,Notebook,Informática,4048.3,1,0.1,Cartão de Crédito,MG,4.0
+1355,2024-06-27,Fone de Ouvido,Acessórios,226.67,1,0.0,Cartão de Crédito,PR,5.0
+1245,2024-10-18,Notebook,Informática,3579.13,3,0.05,Pix,RS,1.0
+1078,2024-12-11,Tablet,Telefonia,1263.0,1,0.0,Cartão de Crédito,RJ,4.0
+1434,2024-04-27,Smartphone,Telefonia,2139.33,1,0.0,Pix,PR,3.0
+1575,2024-10-12,Fone de Ouvido,Acessórios,186.79,-1,0.0,Cartão de Crédito,SP,3.0
+1182,2024-04-20,Monitor,Informática,934.97,1,0.0,Cartão de Débito,PE,5.0
+1492,2024-06-04,Smartphone,Telefonia,2385.13,2,0.0,Pix,CE,1.0
+1050,2024-04-05,Monitor,Informática,959.59,2,0.2,Pix,PE,4.0
+1058,2024-03-31,Notebook,Informática,3221.02,1,0.05,Pix,DF,4.0
+1443,2024-07-25,Teclado,Acessórios,180.7,2,0.0,Cartão de Crédito,PR,4.0
+1360,2024-08-24,Notebook,Informática,3664.84,1,0.05,Cartão de Crédito,RJ,5.0
+1049,2024-08-04,Mouse,Acessórios,83.27,1,0.05,Boleto,PR,4.0
+1312,2024-10-31,NOTEBOOK,Informática,3293.21,1,0.0,Pix,CE,5.0
+1137,2024-06-09,Notebook,Informática,4651.59,1,0.05,Pix,DF,5.0
+1486,2024-02-08,Fone de Ouvido,Acessórios,301.87,1,0.1,Cartão de Crédito,PE,4.0
+1275,2024-11-22,Notebook,Informática,2973.2,1,0.0,Cartão de Débito,BA,5.0
+1395,2024-12-08,Teclado,Acessórios,167.3,1,0.0,Cartão de Crédito,DF,4.0
+1129,2024-12-30, mouse ,Acessórios,91.44,1,0.0,Cartão de Débito,RJ,2.0
+1214,2024-03-13,Teclado,Acessórios,144.94,1,0.0,Cartão de Crédito,PE,5.0
+1274,2024-12-10,Fone de Ouvido,Acessórios,273.83,1,0.0,Cartão de Débito,pr,4.0
+1012,2024-02-21,Mouse,Acessórios,85.69,1,0.0,Pix,RS,4.0
+1234,2024-08-17,Fone de Ouvido,Acessórios,262.55,1,0.0,Pix,PR,4.0
+1477,2024-09-27,Monitor,Informática,934.06,1,0.15,Cartão de Débito,PR,2.0
+1472,2024-05-07,Monitor,Informática,849.69,1,0.0,Pix,RS,2.0
+1187,2024-09-07,Monitor,Informática,956.23,1,0.1,Cartão de Crédito,RS,4.0
+1238,2024-04-29,Monitor,Informática,866.83,3,0.0,Pix,CE,3.0
+1417,2024-11-10,Notebook,Informática,2657.43,1,0.0,Pix,BA,4.0
+1347,2024-04-29,Monitor,Informática,811.75,2,0.0,Pix,SC,3.0
+1241,2024-11-28,Fone de Ouvido,Acessórios,247.08,1,0.0,Cartão de Crédito,PE,4.0
+1296,2024-09-07,Monitor,Informática,978.15,1,0.0,Cartão de Crédito,SC,5.0
+1571,2024-11-19,Teclado,Acessórios,198.03,2,0.0,Pix,CE,5.0
+1436,2024-09-03,Fone de Ouvido,Acessórios,297.84,1,0.0,Pix,PE,4.0
+1534,2024-08-01,Notebook,Informática,3940.46,1,0.0,Cartão de Crédito,SC,1.0
+1577,2024-01-07,Monitor,Informática,717.77,1,0.0,Cartão de Crédito,BA,4.0
+1125,2024-04-07,Fone de Ouvido,Acessórios,266.56,1,0.0,Cartão de Débito,CE,5.0
+1056,2024-06-18,Notebook,Informática,3757.81,1,0.0,Pix,CE,5.0
+1501,2024-02-27,Monitor,Informática,1083.91,1,0.0,Pix,RS,3.0
+1348,2024-02-22,Fone de Ouvido,Acessórios,284.51,1,0.0,Cartão de Débito,MG,2.0
+1382,2024-04-10, fone de ouvido ,Acessórios,229.13,2,0.05,Cartão de Débito,CE,2.0
